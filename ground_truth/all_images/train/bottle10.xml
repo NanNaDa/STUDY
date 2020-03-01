@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_images</folder>
+	<filename>bottle10.jpg</filename>
+	<path>/Users/jkdo/Desktop/images/all_images/bottle10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>3</ymin>
+			<xmax>173</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

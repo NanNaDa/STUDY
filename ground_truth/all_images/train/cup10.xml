@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_images</folder>
+	<filename>cup10.jpg</filename>
+	<path>/Users/jkdo/Desktop/images/all_images/cup10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>267</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>19</ymin>
+			<xmax>227</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

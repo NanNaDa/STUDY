@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_images</folder>
+	<filename>glass08.jpg</filename>
+	<path>/Users/jkdo/Desktop/images/all_images/glass08.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>172</width>
+		<height>293</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>170</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

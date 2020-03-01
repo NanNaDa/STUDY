@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_images</folder>
+	<filename>bowl24.jpg</filename>
+	<path>/Users/jkdo/Desktop/images/all_images/bowl24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>203</width>
+		<height>249</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bowl</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>72</ymin>
+			<xmax>203</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

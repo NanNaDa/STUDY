@@ -1,0 +1,13 @@
+FROM python:3.6
+
+LABEL maintainer="mhilt767@gmail.com"
+
+
+COPY whl/* /tmp/whl/
+RUN pip3 install /tmp/whl/*.whl \
+	&& rm -rf /tmp/whl \
+	&& pip3 install labelImg \
+
+# docker build -t dev:label -f dockerfile . 
+
+# docker run -itv $(pwd):/ --rm --name label_  dev:label
